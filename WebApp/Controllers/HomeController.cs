@@ -13,14 +13,14 @@ namespace WebApp.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Your reliable multi-cloud service provider.";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "DAPATKAN HARGA PROMO HINGGA AKHIR BULAN!";
 
             return View();
         }
