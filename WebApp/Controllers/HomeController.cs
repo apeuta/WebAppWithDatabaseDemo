@@ -20,7 +20,7 @@ namespace WebApp.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "SENIN HARGA NAIK.";
+            ViewData["Message"] = "DAPATKAN HARGA PROMO HINGGA AKHIR BULAN.";
 
             return View();
         }
